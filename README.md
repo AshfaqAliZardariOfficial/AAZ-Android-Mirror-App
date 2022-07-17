@@ -1,7 +1,9 @@
 # AAZ-Android-Mirror-App
 The Java desktop application to mirror and control android mobile devices with ease.
+## [Download](https://github.com/AshfaqAliZardariOfficial/AAZ-Android-Mirror-App/releases/download/release_v1.0/AAZ_Android_Mirror_Setup.exe.exe "Download AAZ_Android_Mirror_Setup")
+<a href="https://github.com/AshfaqAliZardariOfficial/AAZ-Android-Mirror-App/releases/download/release_v1.0/AAZ_Android_Mirror_Setup.exe.exe" target="_blank" title="Download AAZ_Android_Mirror_Setup"><img src="https://user-images.githubusercontent.com/78950598/174658628-5b8015f5-6641-4006-9bb5-95df34305312.png" alt="AAZ_Android_Mirror_Setup" width="160" /></a>
+
 ## Contact and Supporting Info
 Feel free to contact me on <a href="mailto:ashfaqalizardariofficial@gmail.com" target="_blank" title="ashfaqalizardariofficial@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" alt="ashfaqalizardariofficial@gmail.com" width="70" /></a>  
   
   <a href="https://paypal.me/ashfaqalizardari247?country.x=CA&locale.x=en_US" target="_blank" title="paypal.me/ashfaqalizardari247"><img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" alt="PayPalMe" width="160" /></a>    <a href="https://www.buymeacoffee.com/ashfaqalizardari" target="_blank" title="buymeacoffee.com/ashfaqalizardari"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" width="160" /></a>
-
